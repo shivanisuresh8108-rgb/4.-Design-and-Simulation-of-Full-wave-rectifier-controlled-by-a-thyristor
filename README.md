@@ -65,6 +65,9 @@ After analysing the simulated output,
 (iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.
 (iv)Write your inference.
 
-## Simulation
+## Simulation 
+<img width="1905" height="988" alt="Screenshot 2026-02-12 214821" src="https://github.com/user-attachments/assets/9a3e5453-1467-445c-bb22-a138a2e6ba7c" />
 ## Output
+<img width="1910" height="1006" alt="Screenshot 2026-02-12 214754" src="https://github.com/user-attachments/assets/577d3a99-7a25-4d3e-b1e7-acacaa2b7ce5" />
 ## Result
+Full wave rectifier controlled by a thyristor simulated using simulink
